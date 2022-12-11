@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <title>Characterizing the Midgard abstraction feasibility</title>
+      <link>https://example.com/project/amp/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://example.com/project/amp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <title>Out-of-Order processor simulation</title>
+      <link>https://example.com/project/aca1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>https://example.com/project/aca1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time monitor system</title>
+      <link>https://example.com/project/es/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Route Scheduling</title>
+      <link>https://example.com/project/ds/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ds/</guid>
       <description></description>
     </item>
     
